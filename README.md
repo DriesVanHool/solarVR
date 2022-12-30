@@ -1,5 +1,5 @@
 # solarVR
-A-fram Solar system - VR experiment
+A-frame Solar system - VR experiment
 
 ## 1. Result:
   * https://rillrun.com/solarVR
